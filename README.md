@@ -17,7 +17,7 @@ This repository contains two distinct applications:
 ### Installation
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/anu-144/zeotap_task.git)
    cd your-repo
   
 2. Set up a virtual environment (optional but recommended):
